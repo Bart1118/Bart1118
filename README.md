@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning some interesting stuff
+- 📫 How to reach me: atom.xiaogoubi@gmail.com
+- ⚡ Fun fact: I'm a human!
 <!--
 **sakuraAtomCola/sakuraAtomCola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
