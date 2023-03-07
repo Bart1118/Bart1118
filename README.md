@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning some interesting stuff
+- 🌱 I’m currently learning ***Coursera_Software-Design-and-Architecture***
 - 📫 How to reach me: atom.xiaogoubi@gmail.com
 - ⚡ Fun fact: I'm a human!
 <!--
