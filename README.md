@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ***Coursera_Software-Design-and-Architecture***
+- 🌱 I’m currently learning ***Software Engineering and Technology*** in Chalmers!
 - 📫 How to reach me: atom.xiaogoubi@gmail.com
 - ⚡ Fun fact: I'm a human!
 <!--
